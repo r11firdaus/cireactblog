@@ -1,0 +1,7 @@
+{
+    "name": "FakeBlog",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

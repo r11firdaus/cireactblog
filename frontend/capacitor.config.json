@@ -1,0 +1,9 @@
+{
+    "appId": "com.goblog.app",
+    "appName": "Go Blog",
+    "bundleWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+
+}
